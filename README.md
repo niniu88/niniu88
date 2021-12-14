@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nini
-- 👀 I’m interested in python programming. I am still inexperienced, but I would like to learn it well.
-- 🌱 I’m currently learning python ...
+- 👋 Hi, I’m Andrew
+- 👀 I’m interested in front-end dev. I am still inexperienced, but I would like to learn it well.
+- 🌱 I’m currently learning RWD ...
 - 💞️ I’m looking to collaborate on with people who are also starting their adventure with programming and would like to create a project.
 - 📫 PM ...
 
